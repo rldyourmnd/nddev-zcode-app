@@ -68,8 +68,8 @@ zcode_tools/marketplaces/<marketplace>/
      "description": "<English, one sentence>",
      "author": { "name": "Danil Silantyev (github:rldyourmnd), CEO NDDev", "url": "https://github.com/rldyourmnd" },
      "license": "AGPL-3.0-or-later",
-     "homepage": "https://github.com/NDDev-it-com/nddev-zcode-app/tree/main/zcode_tools/marketplaces/<marketplace>/plugins/<name>",
-     "repository": "https://github.com/NDDev-it-com/nddev-zcode-app",
+     "homepage": "https://github.com/rldyourmnd/nddev-zcode-app/tree/main/zcode_tools/marketplaces/<marketplace>/plugins/<name>",
+     "repository": "https://github.com/rldyourmnd/nddev-zcode-app",
      "keywords": ["<topic>", "nddev"]
    }
    ```

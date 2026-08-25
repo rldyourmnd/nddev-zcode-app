@@ -23,7 +23,7 @@ Only the current exact numeric release tag receives security fixes.
 Report vulnerabilities privately. Do not open a public issue or pull request
 that contains exploit details or sensitive material.
 
-Preferred channel: [GitHub Security Advisories](https://github.com/NDDev-it-com/nddev-zcode-app/security/advisories/new).
+Preferred channel: [GitHub Security Advisories](https://github.com/rldyourmnd/nddev-zcode-app/security/advisories/new).
 
 Alternatively, contact the maintainer through
 [@rldyourmnd](https://github.com/rldyourmnd) and request a private disclosure

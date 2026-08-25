@@ -4,7 +4,7 @@
 ## ZCode environment — nddev-builder
 
 This ZCode home is produced from the `nddev-builder` marketplace in
-`NDDev-it-com/nddev-zcode-app`. It is a focused environment for creating and
+`rldyourmnd/nddev-zcode-app`. It is a focused environment for creating and
 maintaining ZCode-native marketplaces, plugins, skills, commands, agents,
 hooks, MCP servers, providers, references, and companion CLI tools.
 
