@@ -23,7 +23,7 @@ appropriate corrective action in response to reported issues.
 
 Reports may be sent privately through GitHub Security Advisories at:
 
-- https://github.com/NDDev-it-com/nddev-zcode-app/security/advisories/new
+- https://github.com/rldyourmnd/nddev-zcode-app/security/advisories/new
 
 or by opening a confidential issue addressed to the maintainer. Do not include
 secrets, tokens, private keys, or sensitive logs in reports.
